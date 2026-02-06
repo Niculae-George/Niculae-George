@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on: Building automated CI/CD pipelines and exploring cloud infrastructure.<br>I’m looking to collaborate on: Open-source DevOps tools or security-focused automation projects.<br> I’m looking for help with: Advanced penetration testing techniques and fine-tuning LLMs.<br>I’m currently learning: The intersection of DevOps and Security (DevSecOps) and AI integration.<br> Ask me about: Applied Computer Science at UNITBV or my latest Linux server experiments.<br>Fun fact: I spend more time automating a 5-minute task than actually doing the task.
+I’m currently working on: Building automated CI/CD pipelines and exploring cloud infrastructure. <br>I’m looking to collaborate on: Open-source DevOps tools or security-focused automation projects.<br> I’m looking for help with: Advanced penetration testing techniques and fine-tuning LLMs.<br>I’m currently learning: The intersection of DevOps and Security (DevSecOps) and AI integration.<br> Ask me about: Applied Computer Science at UNITBV or my latest Linux server experiments.<br>Fun fact: I spend more time automating a 5-minute task than actually doing the task.
 
 
 ## 🌐 Socials:
